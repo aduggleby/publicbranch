@@ -1,1 +1,2 @@
 this is a public version
+they also added LICENSE information
